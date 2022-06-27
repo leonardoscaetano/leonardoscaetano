@@ -3,8 +3,8 @@
 I am a Front-End Software Engineer, and I`ve been working with Angular 2+ for 4 years.   
 
 ### More about me
-- 💼 Working at Social Bank as Front-End Developer
-- ♿ Currently studying about accessibility
+- 💼 Working at Many Pets as Front-End Developer
+- ♿ Currently studying Vue
 - 🖥️ Deeply interested in UX Design
 - 🗣 Speaking native Brazilian Portuguese & advanced English
 
