@@ -4,7 +4,7 @@ I am a Front-End Software Engineer, and I`ve been working with Angular 2+ for 4 
 
 ### More about me
 - 💼 Working at Many Pets as Front-End Developer
-- ♿ Currently studying Vue
+- 👓 Currently studying Vue
 - 🖥️ Deeply interested in UX Design
 - 🗣 Speaking native Brazilian Portuguese & advanced English
 
