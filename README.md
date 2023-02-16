@@ -1,6 +1,6 @@
 # Hi there 👋, I`m Leonardo Caetano
 
-I am a Front-End Software Engineer, and I`ve been working with Angular 2+ for 4 years.   
+I am a Front-End Software Engineer, and I`ve been working with Front-End Software Engineering for 5 years.   
 
 ### More about me
 - 💼 Working at Many Pets as Front-End Developer
