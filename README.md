@@ -3,7 +3,7 @@
 I am a Front-End Software Engineer, and I`ve been working with Front-End Software Engineering for 5 years.   
 
 ### More about me
-- 💼 Working at Many Pets as Front-End Developer
+- 💼 Working at Many Pets as Front-End Engineering
 - 👓 Currently studying Vue
 - 🖥️ Deeply interested in UX Design
 - 🗣 Speaking native Brazilian Portuguese & advanced English
